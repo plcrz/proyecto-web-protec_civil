@@ -1,0 +1,49 @@
+#inicio {
+  color: rgb(226, 102, 19);
+  text-align: center;
+  position: absolute; top: 40px; left: 30%;
+}
+#cabecera {
+  width: 100%;
+  margin: 5px;
+  /*
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(248, 154, 65);
+  */
+  background-color: rgb(17, 17, 104);
+}
+
+#nav {
+  font-size: 15px;
+  position: absolute; top: 20px; left: 45%;
+}
+
+body {
+  background-color: rgb(248, 154, 65);
+}
+
+#portada {
+  width: 80%;
+  
+
+  position: relative; top: 10px; left: 60px;
+
+  margin: 5px;
+  background-color: bisque;
+}
+
+h1 {
+    color: rgb(19, 19, 122);
+    text-align: center;
+  }
+
+h2 {
+    color: rgb(19, 19, 122);
+    text-align: center;
+  }
+
+a {
+  color: wheat;
+  text-decoration: none;
+}
